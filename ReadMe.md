@@ -1,5 +1,5 @@
 # 💫 About Me:
-✒️ | Atualmente trabalho com design<br>🤓 | Estou aprofundando meu conhecimento em desenvolvimento web<br>🚀 | Com energia para desenvolver um projeto próprio
+💻 | Desenvolvedor web<br> ✒️ | Designer nas horas vagas <br> 🤓 | Estou aprofundando meu conhecimento em desenvolvimento web<br>🚀 | Com energia para desenvolver um projeto próprio
 
 
 ## 🌐 Socials:
